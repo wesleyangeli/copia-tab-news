@@ -8,7 +8,10 @@ function Home () {
                 Essa é a minha primeira página criada sozinho e dedico ela pra você, porque sempre esteve ao meu lado, me apoiando em todo momento.
             </p>
             <p>
-                Obrigado por tudo meu amor, sem você eu não seria completo. Te amo! 🥰
+                Obrigado por tudo meu amor, sem você eu não seria completo.
+            </p>
+            <p>
+            Te amo! 🥰
             </p>
         </div>
     )
